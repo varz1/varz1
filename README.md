@@ -1,25 +1,20 @@
-🚀 Currently exploring opportunities in **Australia** 🇦🇺
+🚀 **Software Engineer with AI/ML Infrastructure expertise** | Currently exploring opportunities in **Australia** 🇦🇺
 
 ## 🛠️ Tech Stack
-
 **Languages:** `Golang` `Python` `Shell`  
 **Backend:** `Gin` `FastAPI` `Microservices` `RESTful APIs`  
 **DevOps:** `Kubernetes` `Docker` `GitLab CI` `ArgoCD` `Prometheus` `Grafana`  
 **Database:** `MySQL` `MongoDB` `Redis` `RabbitMQ`  
 **Cloud:** `Alibaba Cloud` `Azure` `Terraform` `Ansible`
 
-## 🎯 What I Did
-
-- Built microservices platforms handling **30K+ daily requests**
-- Optimized AI systems achieving **5x performance improvement**  
-- Automated CI/CD pipelines with **98% deployment success rate**
-- Managed Kubernetes clusters serving **100+ services**
+## 🎯 What I've Built
+- **AI Video Platform:** Processing **30K+ daily video generation tasks**
+- **Performance Optimization:** Achieved **5x speedup** in AI video generation  
+- **DevOps Automation:** **98% deployment success rate** across 100+ services
+- **Resource Optimization:** **40% cost reduction** through auto scaling
 
 ---
-
 📍 **Available for opportunities across Australia**  
-💼 **Open to:** Backend Engineer • DevOps Engineer • Cloud Engineer  
-📧 **Contact:**  lqcl120638@gmail.com | LinkedIn: [[profile-link]](https://www.linkedin.com/in/chen-li-704794323/)
-
-*Currently on valid Visa - eligible for full-time employment*
-
+💼 **Open to:** Software Engineer • DevOps Engineer • AI Infrastructure Engineer  
+📧 **Contact:** lqcl120638@gmail.com | LinkedIn: [profile-link](https://www.linkedin.com/in/chen-li-704794323/)  
+✅ **Work-ready:** Valid Working Visa
