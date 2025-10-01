@@ -14,7 +14,6 @@
 - **Resource Optimization:** **40% cost reduction** through auto scaling
 
 ---
-📍 **Available for opportunities across Australia**  
 💼 **Open to:** Software Engineer • DevOps Engineer • AI Infrastructure Engineer  
 📧 **Contact:** lqcl120638@gmail.com | LinkedIn: [profile-link](https://www.linkedin.com/in/chen-li-704794323/)  
 ✅ **Work-ready:** Valid Working Visa
