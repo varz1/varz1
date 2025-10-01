@@ -1,4 +1,4 @@
-🚀 **Software Engineer with AI/ML Infrastructure expertise** | Currently exploring opportunities in **Australia** 🇦🇺
+🚀 **Software Engineer with AI/ML Infrastructure expertise** 
 
 ## 🛠️ Tech Stack
 **Languages:** `Golang` `Python` `Shell`  
