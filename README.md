@@ -1,18 +1,4 @@
-🚀 **Software Engineer with AI/ML Infrastructure expertise** 
-
-## 🛠️ Tech Stack
-**Languages:** `Golang` `Python` `Shell`  
-**Backend:** `Gin` `FastAPI` `Microservices` `RESTful APIs`  
-**DevOps:** `Kubernetes` `Docker` `GitLab CI` `ArgoCD` `Prometheus` `Grafana`  
-**Database:** `MySQL` `MongoDB` `Redis` `RabbitMQ`  
-**Cloud:** `Alibaba Cloud` `Azure` `Terraform` `Ansible`
-
-## 🎯 What I've Built
-- **AI Video Platform:** Processing **30K+ daily video generation tasks**
-- **Performance Optimization:** Achieved **5x speedup** in AI video generation  
-- **DevOps Automation:** **98% deployment success rate** across 100+ services
-- **Resource Optimization:** **40% cost reduction** through auto scaling
-
----
-💼 **Open to:** Software Engineer • DevOps Engineer • AI Infrastructure Engineer  
-📧 **Contact:** lqcl120638@gmail.com | LinkedIn: [profile-link](https://www.linkedin.com/in/chen-li-704794323/)  
+Software engineer with 3+ years building and scaling customer-facing SaaS APIs and background-job systems in Golang and Python, with growing full-stack
+range across React and TypeScript. A product-first engineer who owns features end to end, from design and performance to deployment, along with the
+internal tooling around them, and who works directly with customers’ engineers on their integration problems. Comfortable with CI/CD and on-call. Uses
+AI tools (Claude Code) daily.
